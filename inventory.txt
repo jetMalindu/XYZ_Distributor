@@ -1,0 +1,6 @@
+Anchour cheese 550 220.500000 1000
+Kist jam 350 65.500000 900
+Kist sauce 50 80.000000 650
+Maliban biscuit 150 55.002651 1050
+Kothmale milk 50 85.000000 750
+jumbo peanut 850 55.000000 2000
